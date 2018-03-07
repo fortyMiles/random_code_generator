@@ -4,7 +4,7 @@ classifiers = [
     'Programming Language :: Python :: 3',
 ]
 
-requirements = []
+# requirements = []
 
 paramters = {
     'name': 'random_string_generate',
@@ -14,7 +14,7 @@ paramters = {
     'author_email': 'minchiuan.gao@gmail.com',
     'url': 'https://github.com/fortymiles',
     'description': 'generate random code',
-    'install_requires': requirements
+    # 'install_requires': requirements
 }
 
 
